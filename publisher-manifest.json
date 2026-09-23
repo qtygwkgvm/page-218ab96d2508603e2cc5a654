@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f7e6a49e4dcf25326df875aa",
+  "owner": "qtygwkgvm",
+  "repo": "page-218ab96d2508603e2cc5a654",
+  "title": "免费机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "218ab96d2508603e2cc5a654",
+      "a": "免费机场",
+      "b": "机场官网线路发布页",
+      "entity": "免费机场",
+      "brand": "免费机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f132c86cc750ec78dcdbbdb1921b03171837e15f693480b845ad97690c3b525",
+      "content": {
+        "primary_entity": "免费机场",
+        "keyword1": "免费机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_HERO_SUBTITLE": "多设备订阅一站配置",
+          "AI_HERO_INTRO": "免费机场提供按月与按年计费的订阅方案，覆盖个人到团队的多设备使用场景，线路以专线与流媒体解锁为主，配合各平台客户端文档完成订阅导入即可开始使用。",
+          "AI_VISUAL_TITLE": "免费机场订阅方案",
+          "AI_HIGHLIGHT_1": "按月按年灵活计费",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖多设备",
+          "AI_HIGHLIGHT_3": "专线与流媒体节点可选",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "从设备数量与月流量出发，匹配合适的订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按同时在线数量决定档位。",
+          "AI_FEATURE_TITLE_2": "按流量选周期",
+          "AI_FEATURE_TEXT_2": "每月100GB到1000GB不等，轻度使用选小流量，多设备重度使用选大流量。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "同一档位年付价格相当于十个月费用，长期使用可选按年订阅。",
+          "AI_CLIENTS_TITLE": "适用客户端",
+          "AI_CLIENTS_INTRO": "不同设备使用对应的订阅客户端，具体兼容性以客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含专线优化；团队版每月1000GB、20台设备。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按选择、核验、配置三步完成订阅使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端是否支持所选订阅，留意同时在线设备数量限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的订阅导入文档，填入订阅链接并完成节点更新。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备并解锁基础流媒体；旗舰版每月300GB、支持5台设备，提供全节点原生流媒体解锁与IPLC专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许3台设备同时在线，旗舰版为5台，团队版为20台。超出数量后新设备可能无法连接，可升级档位解决。",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端内选择从订阅链接导入，粘贴对应链接后更新节点列表即可。不同客户端的入口位置不同，可查阅该客户端的配置文档。",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付相当于十个月的费用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协作或小型团队统一使用。",
+          "AI_CLOSING_TITLE": "选好套餐即可开始",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定档位，参照客户端文档完成订阅导入。",
+          "AI_DESCRIPTION": "，围绕个人与团队的不同上网需求，提供基础版、旗舰版与团队版三档订阅，分别对应每月100GB、300GB与1000GB流量，支持3台、5台与20台设备同时在线。旗舰版加入全节点流媒体解锁与IPLC专线游戏加速优化，团队版提供VIP高带宽节点与企业定制路由。三档均支持月付与年付，年付价格相当于十个月费用，可按设备数量与用量灵活选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ekpawvd.cn",
+    "host": "ekpawvd.cn"
+  },
+  "file_hashes": {
+    "index.html": "933d98156f050598d8930bb476dd5c10cde91d1eb2dbc4c13f1bcfa9439a718c",
+    "sitemap.xml": "d0421c659bad1918c4ca0bbdca033c3e959fcad6b338ad1b9f417bc718cb4093",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c7cdae337405b7d577ad1fc78966c61d143340796af28fa12a8323f3a6fd413e",
+    "robots.txt": "83791b4c85af9f63c6d33e7071f20e9ab4e247d5404445d0d3086a618390575f",
+    "e9b6bad9994857c1e1663e46486af058.txt": "5c265ddeacbbe5ee66de775cc410833a4e7b2a3fc7eb260d16c728f4c7dba424"
+  },
+  "revision": "f56b04ba74ec5f1271cb17240a086bb98e9665e5a7dd271950f9de4d96b3e2aa"
+}
